@@ -1,5 +1,7 @@
 # CoinAPI BTC Market Analysis
 
+Task ID: 2025-02-12_23:13__RT28
+
 A Python script that analyzes BTC markets on US-friendly cryptocurrency exchanges using the CoinAPI.io API.
 
 ## Features
